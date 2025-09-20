@@ -1,0 +1,26 @@
+{
+  "status": true,
+  "message": "successfully fetched all the categories",
+  "categories": [
+    {
+      "category_id": "101",
+      "category": "Women Clothing",
+      "product_type": "women_products"
+    },
+    {
+      "category_id": "102",
+      "category": "Men Clothing",
+      "product_type": "men_products"
+    },
+    {
+      "category_id": "103",
+      "category": "Electronics",
+      "product_type": "electronics_products"
+    },
+    {
+      "category_id": "104",
+      "category": "Beauty & Personal Care",
+      "product_type": "beauty_products"
+    }
+  ]
+}

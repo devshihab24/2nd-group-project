@@ -1,0 +1,116 @@
+{
+  "status": true,
+  "message": "successfully fetched all the videos",
+  "men_products" : [
+    {
+      "category_id": "102",
+      "product_id": "a",
+      "category": "Men Clothing",
+      "thumbnail": "assets/man-dress-1.jpg",
+      "title": "Shirts Menshirts Mens Cotton Shirt Factory Direct Various Style Customization",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": ""
+      }
+    },
+    {
+      "category_id": "102",
+      "product_id": "b",
+      "category": "Men Clothing",
+      "thumbnail": "assets/man-dress-2.jpg",
+      "title": "Men Shirt Custom Shirts Hot Sale Men Women Polyester Cotton Long Sleeve Casual",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": "29%"
+      }
+    },
+    {
+      "category_id": "102",
+      "product_id": "c",
+      "category": "Men Clothing",
+      "thumbnail": "assets/man-dress-3.jpg",
+      "title": "Shirts Menshirts Mens Cotton Shirt Factory Direct Various Style Customization",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": "29%"
+      }
+    },
+    {
+      "category_id": "102",
+      "product_id": "d",
+      "category": "Men Clothing",
+      "thumbnail": "assets/man-dress-4.jpg",
+      "title": "Men Shirt Custom Shirts Hot Sale Men Women Polyester Cotton Long Sleeve Casual",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": ""
+      }
+    },
+    {
+      "category_id": "102",
+      "product_id": "e",
+      "category": "Men Clothing",
+      "thumbnail": "assets/man-dress-5.jpg",
+      "title": "Shirts Menshirts Mens Cotton Shirt Factory Direct Various Style Customization",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": ""
+      }
+    },
+    {
+      "category_id": "102",
+      "product_id": "f",
+      "category": "Men Clothing",
+      "thumbnail": "assets/man-dress-6.jpg",
+      "title": "Men Shirt Custom Shirts Hot Sale Men Women Polyester Cotton Long Sleeve Casual",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": "29%"
+      }
+    },
+    {
+      "category_id": "102",
+      "product_id": "g",
+      "category": "Men Clothing",
+      "thumbnail": "assets/man-dress-7.jpg",
+      "title": "Shirts Menshirts Mens Cotton Shirt Factory Direct Various Style Customization",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": ""
+      }
+    },
+    {
+      "category_id": "102",
+      "product_id": "h",
+      "category": "Men Clothing",
+      "thumbnail": "assets/man-dress-8.jpg",
+      "title": "Men Shirt Custom Shirts Hot Sale Men Women Polyester Cotton Long Sleeve Casual",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": "29%"
+      }
+    },
+    {
+      "category_id": "102",
+      "product_id": "i",
+      "category": "Men Clothing",
+      "thumbnail": "assets/man-dress-9.jpg",
+      "title": "Shirts Menshirts Mens Cotton Shirt Factory Direct Various Style Customization",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": ""
+      }
+    },
+    {
+      "category_id": "102",
+      "product_id": "j",
+      "category": "Men Clothing",
+      "thumbnail": "assets/man-dress-10.jpg",
+      "title": "Men Shirt Custom Shirts Hot Sale Men Women Polyester Cotton Long Sleeve Casual",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": "29%"
+      }
+    }
+  ]
+}

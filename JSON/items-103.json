@@ -1,0 +1,83 @@
+{
+  "status": true,
+  "message": "successfully fetched all the videos",
+  "electronics_products": [
+    {
+      "category_id": "103",
+      "product_id": "ab",
+      "category": "Electronics Products",
+      "thumbnail": "assets/device-1.jpg",
+      "title": "UMIDIGI A9 Pro Android Mobile Phone 4g 48MP Quad Camera 6.3 inch FHD+ Full Screen 6GB RAM",
+      "others": {
+        "price": "₹116,404.22",
+        "discount": "-29%"
+      }
+    },
+    {
+      "category_id": "103",
+      "product_id": "ac",
+      "category": "Electronics Products",
+      "thumbnail": "assets/device-2.jpg",
+      "title": "UMIDIGI A9 Pro Android Mobile Phone 4g 48MP Quad Camera 6.3 inch FHD+ Full Screen 6GB RAM",
+      "others": {
+        "price": "₹116,404.22",
+        "discount": "-29%"
+      }
+    },
+    {
+      "category_id": "103",
+      "product_id": "ad",
+      "category": "Electronics Products",
+      "thumbnail": "assets/device-3.jpg",
+      "title": "UMIDIGI A9 Pro Android Mobile Phone 4g 48MP Quad Camera 6.3 inch FHD+ Full Screen 6GB RAM",
+      "others": {
+        "price": "₹116,404.22",
+        "discount": "-29%"
+      }
+    },
+    {
+      "category_id": "103",
+      "product_id": "ae",
+      "category": "Electronics Products",
+      "thumbnail": "assets/device-4.jpg",
+      "title": "UMIDIGI A9 Pro Android Mobile Phone 4g 48MP Quad Camera 6.3 inch FHD+ Full Screen 6GB RAM",
+      "others": {
+        "price": "₹116,404.22",
+        "discount": ""
+      }
+    },
+    {
+      "category_id": "103",
+      "product_id": "af",
+      "category": "Electronics Products",
+      "thumbnail": "assets/device-5.jpg",
+      "title": "UMIDIGI A9 Pro Android Mobile Phone 4g 48MP Quad Camera 6.3 inch FHD+ Full Screen 6GB RAM",
+      "others": {
+        "price": "₹116,404.22",
+        "discount": "-29%"
+      }
+    },
+    {
+      "category_id": "103",
+      "product_id": "ag",
+      "category": "Electronics Products",
+      "thumbnail": "assets/device-6.jpg",
+      "title": "UMIDIGI A9 Pro Android Mobile Phone 4g 48MP Quad Camera 6.3 inch FHD+ Full Screen 6GB RAM",
+      "others": {
+        "price": "₹116,404.22",
+        "discount": ""
+      }
+    },
+    {
+      "category_id": "103",
+      "product_id": "ah",
+      "category": "Electronics Products",
+      "thumbnail": "assets/device-7.jpg",
+      "title": "UMIDIGI A9 Pro Android Mobile Phone 4g 48MP Quad Camera 6.3 inch FHD+ Full Screen 6GB RAM",
+      "others": {
+        "price": "₹116,404.22",
+        "discount": ""
+      }
+    }
+  ]
+}

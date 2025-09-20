@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "message": "successfully fetched all the videos",
+  "women_products": [
+    {
+      "category_id": "101",
+      "product_id": "aa",
+      "category": "Women Clothing",
+      "thumbnail": "assets/img-1.jpg",
+      "title": "Women's Women Clothing Women Dresses Women Bodycon 2021 Trendy Black Women's Sexy Dres",
+      "others": {
+        "price": " ₹10,717.42",
+        "discount": ""
+      }
+    },
+    {
+      "category_id": "101",
+      "product_id": "bb",
+      "category": "Women Clothing",
+      "thumbnail": "assets/img-2.jpg",
+      "title": "New Women's Square Collar Pleated Long Sleeve Dresses",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": ""
+      }
+    },
+    {
+      "category_id": "101",
+      "product_id": "cc",
+      "category": "Women Clothing",
+      "thumbnail": "assets/img-3.jpg",
+      "title": "OEM Morden Fashion Design Women Clothing Super Eight Silk Wrap V-neck Satin Mini Dress",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": "29%"
+      }
+    },
+    {
+      "category_id": "101",
+      "product_id": "dd",
+      "category": "Women Clothing",
+      "thumbnail": "assets/img-4.jpg",
+      "title": "New arrivals Hot Sale Summer New Women's Long Dresses Beach Floral Print Boho Maxi Dress",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": "29%"
+      }
+    },
+    {
+      "category_id": "101",
+      "product_id": "ee",
+      "category": "Women Clothing",
+      "thumbnail": "assets/img-5.jpg",
+      "title": "Bodycon Tube Tie Dye Summer Dress Sun Dresses 2021 Colorful Women Long Floral Summer Dress",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": "29%"
+      }
+    },
+    {
+      "category_id": "101",
+      "product_id": "ff",
+      "category": "Women Clothing",
+      "thumbnail": "assets/img-6.jpg",
+      "title": "Plus size women Clothing floral print Long sleeve Maxi African Split Dress for women",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": ""
+      }
+    },
+    {
+      "category_id": "101",
+      "product_id": "gg",
+      "category": "Women Clothing",
+      "thumbnail": "assets/img-7.jpg",
+      "title": "Best Sale Fashion Elegant Muslim stitching National style vintage double pocket Plaid islamic dress",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": "29%"
+      }
+    },
+    {
+      "category_id": "101",
+      "product_id": "hh",
+      "category": "Women Clothing",
+      "thumbnail": "assets/img-8.jpg",
+      "title": "New French Elegant White Bubble Sleeve Party Dress Casual A-Line Dresses, Long Sleeve Dresses",
+      "others": {
+        "price": "₹10,717.42",
+        "discount": "29%"
+      }
+    },
+    {
+      "category_id": "101",
+      "product_id": "ii",
+      "category": "Women Clothing",
+      "thumbnail": "assets/img-9.jpg",
+      "title": "New French Elegant White Bubble Sleeve Party Dress Casual A-Line Dresses, Long Sleeve Dresses",
+      "others": {
+        "price": "100K",
+        "discount": "29%"
+      }
+    }
+  ]
+}

@@ -1,21 +1,210 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>OmniMart</title>
-    <link rel="shortcut icon" href="assets/omnimart.png" type="image/x-icon">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <link rel="shortcut icon" href="assets/omnimart.png" type="image/x-icon" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
     <!-- header content -->
 
     <!-- Deals of the week and popular categories -->
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Omnimart</title>
+        <link
+          href="https://cdn.jsdelivr.net/npm/daisyui@5"
+          rel="stylesheet"
+          type="text/css"
+        />
+        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"/>
+      </head>
+      <body>
+        <div class="deals-of-this-week-container pt-4 all-div hidden">
+          <h2>Deals Of The Week</h2>
+          <div class="divider"></div>
+          <div class="deals-container">
+            <div class="main-card">
+              <div class="discount-overlay">-29%</div>
+              <figure>
+                <img class="image" src="assets/man-dress-5.jpg" alt="" />
+                <div class="icons-overlay">
+                    <i class="fa-regular fa-heart"></i>
+                    <i class="fa-solid fa-repeat"></i>
+                    <i class="fa-solid fa-cart-shopping"></i>
+                </div>
+              </figure>
+              <div class="body-card">
+                <p class="category-title">Women Clothing</p>
+                <h2 class="short-text">
+                  This is a very long text that I want to cut short and show
+                  only part of it...
+                </h2>
+                <div class="rating rating-xs">
+                  <input
+                    type="radio"
+                    name="rating-4"
+                    class="mask mask-star-2 bg-orange-400"
+                    aria-label="1 star"
+                  />
+                  <input
+                    type="radio"
+                    name="rating-4"
+                    class="mask mask-star-2 bg-orange-400"
+                    aria-label="2 star"
+                    checked="checked"
+                  />
+                  <input
+                    type="radio"
+                    name="rating-4"
+                    class="mask mask-star-2 bg-orange-400"
+                    aria-label="3 star"
+                  />
+                  <input
+                    type="radio"
+                    name="rating-4"
+                    class="mask mask-star-2 bg-orange-400"
+                    aria-label="4 star"
+                  />
+                  <input
+                    type="radio"
+                    name="rating-4"
+                    class="mask mask-star-2 bg-orange-400"
+                    aria-label="5 star"
+                  />
+                </div>
+                <p class="product-price">₹100,847.94</p>
+              </div>
+            </div>
+            <div class="main-card">
+              <div class="discount-overlay">-29%</div>
+              <figure>
+                <img class="image" src="assets/device-1.jpg" alt="" />
+                <div class="icons-overlay">
+                    <i class="fa-regular fa-heart"></i>
+                    <i class="fa-solid fa-repeat"></i>
+                    <i class="fa-solid fa-cart-shopping"></i>
+                </div>
+              </figure>
+              <div class="body-card">
+                <p class="category-title">Women Clothing</p>
+                <h2 class="short-text">
+                  This is a very long text that I want to cut short and show
+                  only part of it...
+                </h2>
+                <div class="rating rating-xs">
+                  <input
+                    type="radio"
+                    name="rating-4"
+                    class="mask mask-star-2 bg-orange-400"
+                    aria-label="1 star"
+                  />
+                  <input
+                    type="radio"
+                    name="rating-4"
+                    class="mask mask-star-2 bg-orange-400"
+                    aria-label="2 star"
+                    checked="checked"
+                  />
+                  <input
+                    type="radio"
+                    name="rating-4"
+                    class="mask mask-star-2 bg-orange-400"
+                    aria-label="3 star"
+                  />
+                  <input
+                    type="radio"
+                    name="rating-4"
+                    class="mask mask-star-2 bg-orange-400"
+                    aria-label="4 star"
+                  />
+                  <input
+                    type="radio"
+                    name="rating-4"
+                    class="mask mask-star-2 bg-orange-400"
+                    aria-label="5 star"
+                  />
+                </div>
+                <p class="product-price">₹100,847.94</p>
+              </div>
+            </div>
+          </div>
+          <div class="big-deals-card-container py-5">
+            <figure>
+              <div class="big-card-overlay">
+                <h3>50% OFF</h3>
+                <p>Phone</p>
+              </div>
+              <img class="image" src="assets/digital_watch.jpg" alt="" />
+            </figure>
+            <figure>
+              <div class="big-card-overlay">
+                <h3>40% OFF</h3>
+                <p>Phone</p>
+              </div>
+              <img class="image" src="assets/drone.jpg" alt="" />
+            </figure>
+            <figure>
+              <div class="big-card-overlay">
+                <h3>30% OFF</h3>
+                <p>Phone</p>
+              </div>
+              <img class="image" src="assets/iphone-1.jpg" alt="" />
+            </figure>
+          </div>
+        </div>
 
-    <!-- feature flash and other section -->
+        <div class="btn-container all-div hidden">
+          <h2>Popular Categories</h2>
+          <div id="category-btn-container"></div>
+        </div>
+        <div class="divider w-[85vw] all-div hidden" style="margin: 16px auto;"></div>
+        <div id="loader" class="loader py-5">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+        <div id="card-container" class="card-container all-div hidden"></div>
+        <div class="big-deals-card-container w-[85vw] mx-auto py-10 all-div hidden">
+          <figure>
+            <div class="big-card-overlay">
+              <h3>50% OFF</h3>
+              <p>Phone</p>
+            </div>
+            <img class="image" src="assets/digital_camera.jpg" alt="" />
+          </figure>
+          <figure>
+            <div class="big-card-overlay">
+              <h3>40% OFF</h3>
+              <p>Phone</p>
+            </div>
+            <img class="image" src="assets/vr_glass.jpg" alt="" />
+          </figure>
+          <figure>
+            <div class="big-card-overlay">
+              <h3>30% OFF</h3>
+              <p>Phone</p>
+            </div>
+            <img class="image" src="assets/air_pod.jpg" alt="" />
+          </figure>
+        </div>
 
-    <!-- featured categories -->
+        <!-- feature flash and other section -->
 
-    <!-- footer content -->
-</body>
+        <!-- featured categories -->
+
+        <!-- footer content -->
+        <!-- scripted files -->
+        <script src="secondery.js"></script>
+        <script src="app.js"></script>
+      </body>
+    </html>
+  </body>
 </html>

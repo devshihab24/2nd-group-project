@@ -1,0 +1,72 @@
+{
+  "status": true,
+  "message": "successfully fetched all the videos",
+  "beauty_products": [
+    {
+      "category_id": "104",
+      "product_id": "aaa",
+      "category": "Beauty Products",
+      "thumbnail": "assets/beauty-1.jpg",
+      "title": "",
+      "others": {
+        "price": "₹100,847.94",
+        "discount": "-29%"
+      }
+    },
+    {
+      "category_id": "104",
+      "product_id": "aaa",
+      "category": "Beauty Products",
+      "thumbnail": "assets/beauty-2.jpg",
+      "title": "",
+      "others": {
+        "price": "₹100,847.94",
+        "discount": ""
+      }
+    },
+    {
+      "category_id": "104",
+      "product_id": "aaa",
+      "category": "Beauty Products",
+      "thumbnail": "assets/beauty-3.jpg",
+      "title": "",
+      "others": {
+        "price": "₹100,847.94",
+        "discount": "-29%"
+      }
+    },
+    {
+      "category_id": "104",
+      "product_id": "aaa",
+      "category": "Beauty Products",
+      "thumbnail": "assets/beauty-4.jpg",
+      "title": "",
+      "others": {
+        "price": "₹100,847.94",
+        "discount": "-29%"
+      }
+    },
+    {
+      "category_id": "104",
+      "product_id": "aaa",
+      "category": "Beauty Products",
+      "thumbnail": "assets/beauty-5.jpg",
+      "title": "",
+      "others": {
+        "price": "₹100,847.94",
+        "discount": "-29%"
+      }
+    },
+    {
+      "category_id": "104",
+      "product_id": "aaa",
+      "category": "Beauty Products",
+      "thumbnail": "assets/beauty-6.jpg",
+      "title": "",
+      "others": {
+        "price": "₹100,847.94",
+        "discount": ""
+      }
+    }
+  ]
+}
